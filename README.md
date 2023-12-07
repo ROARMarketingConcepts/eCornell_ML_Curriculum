@@ -1,0 +1,9 @@
+# eCornell_ML_Curriculum
+
+Course List
+
+1. CAS531_Linear_Algebra_Low_Dimension
+2. CAS532_Linear_Algebra_High_Dimension
+3. CIS531_Problem_Solving_With_Machine_Learning
+4. CIS532_Estimating_Probability_Distributions
+5. CIS533_Learning_with_Linear_Classifiers
