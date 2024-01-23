@@ -7,3 +7,7 @@ Course List
 3. CIS531_Problem_Solving_With_Machine_Learning
 4. CIS532_Estimating_Probability_Distributions
 5. CIS533_Learning_with_Linear_Classifiers
+6. CIS534_Decision_Trees_and_Model_Selection
+7. CIS535_Debugging_and_Improving_ML_Models
+8. CIS536_Learning_with_Kernel_Machines
+9. CIS537_Deep_Learning_and_Neural_Networks
