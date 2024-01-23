@@ -1,4 +1,4 @@
-# eCornell_ML_Curriculum
+# eCornell_ML_Curriculum  (October 2023 - January 2024)
 
 Course List
 
